@@ -164,3 +164,4 @@ YOU LOST :(
 - If the client cannot connect, make sure `server.py` is already running.
 - If you see "Address already in use", another process is already using port `5050`. Stop that process or change the port in both `server.py` and `client.py`.
 - If one player closes their client, the current game session ends.
+- IF GUI LOOKS OFF PLEASE ZOOM OUT USING 'ctrl' + '-' OR 'cmd' + '-'
