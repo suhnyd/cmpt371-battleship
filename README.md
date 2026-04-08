@@ -3,6 +3,8 @@
 - Sunny Cui — 301544988 — syc50@sfu.ca
 - Ryan Fung — 301579052 — rjf9@sfu.ca
 
+[Demo Video](https://www.youtube.com/watch?v=a-BFZ6rrnvE)
+
 This project is a terminal-based multiplayer Battleship game built with Python sockets. One server accepts TCP connections, matches two players together, receives ship placements, and relays turn-based attack results between both clients using JSON messages over TCP.
 
 ## Project Structure
